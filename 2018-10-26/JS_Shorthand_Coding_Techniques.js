@@ -28,3 +28,15 @@ console.log(variable2); // prints Hello
 
 let a = "hi", b, c = 5.5;
 console.log(a, b, c);
+
+
+// [ 4 ] If Presence Shorthand
+let z = false;
+if (!z) {
+    console.log("false")
+}
+
+let y = true;
+if (y) {
+    console.log("True")
+}
