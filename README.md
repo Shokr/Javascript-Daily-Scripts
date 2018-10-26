@@ -9,7 +9,7 @@ Hope my scripts gets you inspired at your work, or even makes you
 jealous and port them, enhance them, or even create your own ideas,
 
 Each day i create a directory with the today's date and put my code in,
- and tweet script on  [@MuhammedShokr](https://twitter.com/MuhammedShokr) 
+ and tweet script on  [@JsDailyScripts](https://twitter.com/JsDailyScripts) 
 
 
 ## Table Of Content
