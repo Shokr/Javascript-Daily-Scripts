@@ -31,6 +31,7 @@ console.log(a, b, c);
 
 
 // [ 4 ] If Presence Shorthand
+
 let z = false;
 if (!z) {
     console.log("false")
@@ -40,3 +41,18 @@ let y = true;
 if (y) {
     console.log("True")
 }
+
+
+
+// [ 5 ] JavaScript for Loop Shorthand
+
+ls = [1,2,3,4,5,6,7,8,9,10]
+
+for (let index of ls){
+    console.log(index);
+}
+
+ // For ..each
+ls.forEach(element => {
+    console.log(element*10);
+});
