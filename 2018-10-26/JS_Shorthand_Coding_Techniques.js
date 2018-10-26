@@ -80,3 +80,14 @@ console.log(1e6 === 1000000);
 const obj = { x, y};
 console.log(obj);
 
+
+// [ 9 ]  Arrow Functions Shorthand
+
+/** function expression version
+const add = function(x, y) {
+  return x + y;
+};*/ 
+
+// // arrow function version
+const add = (x, y) => x + y;
+console.log(add(1, 2));
