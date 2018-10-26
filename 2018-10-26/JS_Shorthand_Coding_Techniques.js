@@ -11,9 +11,7 @@
  let x = 20;
  const answer = x > 10 ? 'greater than 10' : 'less than 10';
 
- // output
- console.log("{1} (const answer = x > 10 ? 'greater than 10' : 'less than 10';) ");
- console.log("result:: "+ answer);
+ console.log(answer);
 
 
 // [ 2 ] Short-circuit Evaluation Shorthand
@@ -63,4 +61,17 @@ ls.forEach(element => {
 
 const dbHost = process.env.DB_HOST || 'localhost';
 console.log(dbHost);
+
+
+// [ 7 ] Decimal base exponents
+// For example, 1e7 essentially means 1 followed by 7 zeros.
+
+// All the below will evaluate to true
+console.log(1e0 === 1);
+console.log(1e1 === 10);
+console.log(1e2 === 100);
+console.log(1e3 === 1000);
+console.log(1e4 === 10000);
+console.log(1e5 === 100000);
+console.log(1e6 === 1000000);
 
