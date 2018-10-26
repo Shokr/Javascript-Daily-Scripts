@@ -15,3 +15,10 @@
  console.log("{1} (const answer = x > 10 ? 'greater than 10' : 'less than 10';) ");
  console.log("result:: "+ answer);
 
+ 
+// [ 2 ] Short-circuit Evaluation Shorthand
+// When assigning a variable value to another variable, you may want to ensure that the source variable is not null, undefined or empty.
+
+let variable1 = 'Hello';
+let variable2 = variable1 || '';
+console.log(variable2); // prints Hello
