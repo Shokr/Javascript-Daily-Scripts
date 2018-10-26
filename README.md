@@ -11,6 +11,16 @@ jealous and port them, enhance them, or even create your own ideas,
 Each day i create a directory with the today's date and put my code in,
  and tweet script on  [@MuhammedShokr](https://twitter.com/MuhammedShokr) 
 
+
+## Table Of Content
+
+| Date                     | Title                                                           | Tags                         |
+|:------------------------ |:--------------------------------------------------------------- | ----------------------------:|
+|[2018-10-26](./2018-10-26)|######################################################           |`##` `########`               |
+|[....-..-..](./....-..-..)|-------------------------------------------------------          |`===` `========`              |
+
+
+
 ## Contributing
 > feel free to fork this repository and enhance whatever script you want,
 just show the world how you code, think and do magic with your keyboard.
@@ -20,15 +30,6 @@ just show the world how you code, think and do magic with your keyboard.
 3. Commit your changes (`git commit -am 'Add some xxxxx'`)
 4. Push to the branch (`git push origin feature/xxxxx`)
 5. Create a new Pull Request
-
-
-
-## Table Of Content
-
-| Date                     | Title                                                           | Tags                         |
-|:------------------------ |:--------------------------------------------------------------- | ----------------------------:|
-|[2018-10-26](./2018-10-26)|######################################################           |`##` `########`               |
-|[....-..-..](./....-..-..)|-------------------------------------------------------          |`===` `========`              |
 
 
 ## Credits
