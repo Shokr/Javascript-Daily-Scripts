@@ -116,3 +116,23 @@ const lorem = `Lorem ipsum dolor sit amet, consectetur
     irure dolor in reprehenderit in voluptate velit esse.`
 
 console.log(lorem);
+
+
+// [ 13 ] Spread Operator Shorthand
+
+// joining arrays
+const odd = [1, 3, 5];
+
+const nums = [2, 4, 6, ...odd];
+console.log(nums); // [ 2, 4, 6, 1, 3, 5 ]
+
+const nums2 = [2, ...odd, 4, 6];
+console.log(nums2); // [ 2, 4, 6, 1, 3, 5 ]
+
+// cloning arrays
+const arr = [1, 2, 3, 4];
+const arr2 = [...arr];
+console.log(arr2);
+
+
+
