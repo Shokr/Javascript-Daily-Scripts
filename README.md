@@ -14,13 +14,16 @@ Each day i create a directory with the today's date and put my code in,
 
 ## Table Of Content
 
-| Date                     | Title                                                           | Tags                         |
-|:------------------------ |:--------------------------------------------------------------- | ----------------------------:|
-|[2018-10-26](./2018-10-26)| JavaScript Shorthand Coding Techniques  |`Tricks` `Shortcuts`|
-|[....-..-..](./....-..-..)|-------------------------------------------------------          |`===` `========`              |
+|Num.| Date                     | Title                                                           | Tags                         |
+|----|:------------------------ |:--------------------------------------------------------------- | ----------------------------:|
+|1|[2018-10-26](./2018-10-26)| JavaScript Shorthand Coding Techniques  |`Tricks` `Shortcuts`|
+
+
 
 ## run
-### node script.js
+```sh
+node Script.js
+```
 
 
 ## Contributing
