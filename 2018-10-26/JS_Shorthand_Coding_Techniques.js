@@ -96,3 +96,12 @@ console.log(add(1, 2));
 volume = (l, w = 5, h = 4) => (l * w * h);
 
 console.log(volume(2)); //output: 40
+
+
+// [ 11 ]  Template Literals
+
+first = "JS"
+last = "Daily"
+const welcome = `You have logged in as ${first} ${last}`;
+
+console.log(welcome);
