@@ -75,3 +75,8 @@ console.log(1e4 === 10000);
 console.log(1e5 === 100000);
 console.log(1e6 === 1000000);
 
+ 
+// [ 8 ] Object Property Shorthand || > const obj = { x:x, y:y };
+const obj = { x, y};
+console.log(obj);
+
