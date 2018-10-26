@@ -43,6 +43,7 @@ if (y) {
 }
 
 
+//
 
 // [ 5 ] JavaScript for Loop Shorthand
 
@@ -56,3 +57,10 @@ for (let index of ls){
 ls.forEach(element => {
     console.log(element*10);
 });
+
+
+// [ 6 ] Short - circuit Evaluation  .. assign a default value ( || ==> or )
+
+const dbHost = process.env.DB_HOST || 'localhost';
+console.log(dbHost);
+
