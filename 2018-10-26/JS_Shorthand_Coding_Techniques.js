@@ -1,7 +1,5 @@
 /**
- * 19 + JavaScript Shorthand Coding Techniques
- * https: //www.sitepoint.com/shorthand-javascript-techniques/
- * 
+ *  JavaScript Shorthand Coding Techniques
  */
 
  console.log("==> JavaScript Shorthand Coding Techniques  <==");
@@ -91,3 +89,10 @@ const add = function(x, y) {
 // // arrow function version
 const add = (x, y) => x + y;
 console.log(add(1, 2));
+
+
+// [ 10 ]  Default Parameter Values
+
+volume = (l, w = 5, h = 4) => (l * w * h);
+
+console.log(volume(2)); //output: 40
