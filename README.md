@@ -16,8 +16,9 @@ Each day i create a directory with the today's date and put my code in,
 
 |Num.| Date                     | Title                                                           | Tags                         |
 |----|:------------------------ |:--------------------------------------------------------------- | ----------------------------:|
-|0001|[2018-10-26](./2018-10-26)| JavaScript Shorthand Coding Techniques  |`Tricks` `Shortcuts`|
-
+|0001|[26-10-2018](./26-10-2018)| JavaScript Shorthand Coding Techniques  |`Tricks` `Shortcuts`|
+|0002|[15-12-2018](./15-12-2018)| Looping over arrays  |`loop` `arrays`|
+|0003|[16-12-2018](./16-12-2018)| Get File Extension  |`Regex` `split`|
 
 
 ## run
