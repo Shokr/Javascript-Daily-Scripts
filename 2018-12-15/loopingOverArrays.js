@@ -82,7 +82,17 @@ if (array7.some(over_seven)) {
   console.log('No element bigger than 7 was found');
 }
 
+console.log('===Getting array items from behind to front=-1======8====')
 
+// [8] Getting array items from behind to front
+var newArray = [1, 2, 3, 4];
+
+console.log(newArray.slice(-1)); // [4]
+console.log(newArray.slice(-2)); // [3, 4]
+console.log(newArray.slice(-3)); // [2, 3, 4]
+console.log(newArray.slice(-4)); // [1, 2, 3, 4]
+
+// ---------------------------------------------------------------
 console.log('======================')
 console.log('==>shokr@github.com<==')
 console.log('======================')
