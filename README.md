@@ -1,6 +1,6 @@
 # Javascript-Daily-Scripts
 > Daily Javascript scripts I create them for learn &amp; fun, watch it to get a daily script and learn a tip everyday.
-# Daily Ruby Scripts
+# Daily Scripts
 
 I create a new script everyday, scripts for dealing with everything with JS.
 
